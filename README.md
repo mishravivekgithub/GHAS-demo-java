@@ -268,3 +268,5 @@ Ready to talk about advanced security features for GitHub Enterprise? [Contact S
 Check out [GitHub's Security feature page](https://github.com/features/security) for more security features embedded into GitHub.
 
 Check out the Code Scanning [documentation](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning) for additional configuration options and technical details.
+
+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
